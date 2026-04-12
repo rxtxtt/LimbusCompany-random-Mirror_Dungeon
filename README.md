@@ -1,6 +1,10 @@
 # Random MD Mirror Dungeon
 사용법과 주의사항은은 README.md 파일내부와 이곶에 있습니다
 
+#버전 표기(Version notation)
+version . Mirror Dungeon season . update
+
+
 ## 다운로드
 최신 버전은 아래 Releases에서 다운로드할 수 있습니다.  
 👉 https://github.com/rxtxtt/Limbus_Company-random-MD-Mirror_Dungeon/releases
