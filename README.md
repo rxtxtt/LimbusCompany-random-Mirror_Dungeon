@@ -10,7 +10,8 @@ version . Mirror Dungeon season . update
 👉 https://github.com/rxtxtt/Limbus_Company-random-MD-Mirror_Dungeon/releases
 
 ##최신 업대이트ㅣ(v1.0.0)
-- 택스트형식으로 15층까지 진행됩니다
+- 오류수정
+- 11층부터 5(히든)이 추가됨
 ---
 
 ## Language
@@ -47,6 +48,9 @@ version . Mirror Dungeon season . update
 
 ## 확인된 오류
 - 0.0.1기준에서는 존댓말이었지만 0.0.2에서는 반말로 작동합니다.(수정완료)
+- 11층이후 길선택이 여러번 나오는 오류(수정됨)
+- 층보상이 2개가아니라 1개만 지정해주는 오류(수정됨)
+- -
 
 ## 향후 업데이트 예정
 - 영어(ENG) 버전 README 제공  
