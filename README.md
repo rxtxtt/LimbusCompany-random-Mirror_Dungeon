@@ -9,9 +9,8 @@ version . Mirror Dungeon season . update
 최신 버전은 아래 Releases에서 다운로드할 수 있습니다.  
 👉 https://github.com/rxtxtt/Limbus_Company-random-MD-Mirror_Dungeon/releases
 
-##최신 업대이트ㅣ(v1.0.0)
-- 오류수정
-- 11층부터 5(히든)이 추가됨
+##최신 업대이트ㅣ(v1.7.0)
+- 버전표기변경
 ---
 
 ## Language
